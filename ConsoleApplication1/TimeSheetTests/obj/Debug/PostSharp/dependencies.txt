@@ -1,0 +1,2 @@
+C:\ProgramData\PostSharp\6.0.23\bin.Release\net471\PostSharp.Compiler.Engine.dll
+C:\Users\tkasapoglu\documents\visual studio 2015\Projects\ConsoleApplication1\TimeSheetTests\obj\Debug\PostSharp\postsharp.config
